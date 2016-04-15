@@ -1,2 +1,4 @@
-<span class="type"> "ep_padlister.h1": "Heading 1"
-</span>
+<span class="type"> "ep_pad-lister.Pad": "Pad"</span>
+<span class="type"> "ep_pad-lister.Revision": "Revision"</span>
+<span class="type"> "ep_pad-lister.LastEdit": "Last edit date"</span>
+<span class="type"> "ep_pad-lister.warning": "* Are not in this list : new pads without any changes, and pad names starting with"</span>
