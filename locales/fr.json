@@ -1,0 +1,7 @@
+<span class="type"> "ep_your-plugin.title": "Liste des Pads"</span>
+<span class="type"> "ep_your-plugin.h1": "Liste des Pads"</span>
+<span class="type"> "ep_your-plugin.p": "<em>Tous*</em> les pads, classés par date d'édition."</span>
+<span class="type"> "ep_pad-lister.Pad": "Pad"</span>
+<span class="type"> "ep_pad-lister.Revision": "Revision"</span>
+<span class="type"> "ep_pad-lister.LastEdit": "Dernière édition"</span>
+<span class="type"> "ep_pad-lister.warning": "* Ne sont pas dans cette liste : les nouveaux pads sans changement, les pads dont le nom commence par "</span>
